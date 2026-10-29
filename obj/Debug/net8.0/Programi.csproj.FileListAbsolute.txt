@@ -1,0 +1,14 @@
+D:\Luka\Programiranje\Programi\bin\Debug\net8.0\Programi.exe
+D:\Luka\Programiranje\Programi\bin\Debug\net8.0\Programi.deps.json
+D:\Luka\Programiranje\Programi\bin\Debug\net8.0\Programi.runtimeconfig.json
+D:\Luka\Programiranje\Programi\bin\Debug\net8.0\Programi.dll
+D:\Luka\Programiranje\Programi\bin\Debug\net8.0\Programi.pdb
+D:\Luka\Programiranje\Programi\obj\Debug\net8.0\Programi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Luka\Programiranje\Programi\obj\Debug\net8.0\Programi.AssemblyInfoInputs.cache
+D:\Luka\Programiranje\Programi\obj\Debug\net8.0\Programi.AssemblyInfo.cs
+D:\Luka\Programiranje\Programi\obj\Debug\net8.0\Programi.csproj.CoreCompileInputs.cache
+D:\Luka\Programiranje\Programi\obj\Debug\net8.0\Programi.dll
+D:\Luka\Programiranje\Programi\obj\Debug\net8.0\refint\Programi.dll
+D:\Luka\Programiranje\Programi\obj\Debug\net8.0\Programi.pdb
+D:\Luka\Programiranje\Programi\obj\Debug\net8.0\Programi.genruntimeconfig.cache
+D:\Luka\Programiranje\Programi\obj\Debug\net8.0\ref\Programi.dll
